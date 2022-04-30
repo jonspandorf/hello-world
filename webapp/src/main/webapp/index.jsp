@@ -16,6 +16,10 @@
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
 
+    <label for="color"><b>Favorite Color?</b></label>
+    <input type="text" placeholder="Red" name="color" id="color" required>
+    <br>
+
     <label for="psw"><b>Password</b></label>
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
     <br>
@@ -31,7 +35,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou and good luck!, Happy Learning </h1>
+   <h1> Thankyou and good luck!!! Happy Learning </h1>
 
   
 </form>
